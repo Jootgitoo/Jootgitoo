@@ -1,3 +1,5 @@
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/63939fbc-0401-4513-8fcc-e8c46a4d9a17" />
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jorge
 ==============================================================================================================================
 
